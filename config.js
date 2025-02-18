@@ -1,2 +1,2 @@
 console.log("config")
-console.log("Version1")
+console.log("Version12")
